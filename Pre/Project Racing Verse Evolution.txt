@@ -102,6 +102,7 @@ Indy
 .New Hampshire
 .Houston
 .Alabama
+.Portland <-
 
 Cars
 
@@ -227,5 +228,4 @@ Season
 
 .3 Cameras (onboard, back, up)
 .Grid
-.Fastlap
 .Race end
