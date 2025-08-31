@@ -6,32 +6,22 @@ F1
 .Adelaide
 .Melbourne
 .Estoril
-.Hermanos Rodriguez 60
 .Hermanos Rodriguez 90
-.Hermanos Rodriguez 10
 .Imola
-.Interlagos 70
 .Interlagos 90
-.Monza 60
 .Monza 70
-.Buenos Aires 50
-.Buenos Aires 70
 .Buenos Aires 90
 .Sakhir
 .Baku
 .Brands Hatch
 .Barcelona
-.Monaco 60
 .Monaco 80
 .Magny Cours
-.Spa 60
 .Spa 80
 .Dijon
 .Montreal
 .Austin
 .Paul Ricard 70
-.Paul Ricard 10
-.Zandovoort 60
 .Zandovoort 10
 .Zolder
 .Jerez
@@ -39,12 +29,10 @@ F1
 .Detroit
 .Fuji
 .Hockenheim 70
-.Hockenheim 00
 .Budapest
 .Indianapolis
 .Istanbul
 .Kyalami 60
-.Kyalami 90
 .Long Beach
 .Marina Bay
 .Mosport
@@ -55,9 +43,7 @@ F1
 .Anderstorp
 .Sepang
 .Shanghai
-.Silverstone 50
 .Silverstone 90
-.Silverstone 10
 .Suzuka
 .Aida
 .Valencia
