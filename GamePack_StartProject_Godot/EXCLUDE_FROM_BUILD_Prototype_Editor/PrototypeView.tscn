@@ -1,0 +1,42 @@
+[gd_scene load_steps=5 format=3 uid="uid://ewownmy114ry"]
+
+[sub_resource type="PlaneMesh" id="PlaneMesh_rin3w"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_rin3w"]
+diffuse_mode = 3
+specular_mode = 1
+albedo_color = Color(0.427493, 0.427493, 0.427493, 1)
+
+[sub_resource type="SphereMesh" id="SphereMesh_biqny"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_vg3cu"]
+diffuse_mode = 3
+specular_mode = 2
+albedo_color = Color(0.235294, 0.615686, 0.407843, 1)
+metallic_specular = 0.0
+roughness = 0.0
+rim = 0.38
+anisotropy = 0.65
+
+[node name="Node3D" type="Node3D"]
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+transform = Transform3D(6.105, 0, 0, 0, 6.105, 0, 0, 0, 6.105, 0, 0, 0)
+mesh = SubResource("PlaneMesh_rin3w")
+surface_material_override/0 = SubResource("StandardMaterial3D_rin3w")
+
+[node name="MeshInstance3D2" type="MeshInstance3D" parent="."]
+transform = Transform3D(0.999921, 0, -0.0125486, 0, 1, 0, 0.0125486, 0, 0.999921, 0.20075, 0.457332, 0.446206)
+mesh = SubResource("SphereMesh_biqny")
+surface_material_override/0 = SubResource("StandardMaterial3D_vg3cu")
+
+[node name="DirectionalLight3D7" type="DirectionalLight3D" parent="."]
+transform = Transform3D(0.707107, -3.09086e-08, 0.707107, -0.707107, -3.09086e-08, 0.707107, 0, -1, -4.37114e-08, 8.29298, 7.63383, 0)
+light_specular = 0.0
+shadow_enabled = true
+shadow_normal_bias = 10.0
+shadow_opacity = 0.4
+shadow_blur = 0.0
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.16838, 2.95305)

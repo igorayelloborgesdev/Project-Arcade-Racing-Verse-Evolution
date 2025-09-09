@@ -27,7 +27,6 @@ F1
 .Jerez
 .Jarama
 .Detroit
-.Fuji
 .Hockenheim 70
 .Budapest
 .Indianapolis
@@ -45,7 +44,6 @@ F1
 .Shanghai
 .Silverstone 90
 .Suzuka
-.Aida
 .Valencia
 .Watkins Glen
 .Abu Dhabi
@@ -62,14 +60,14 @@ Indy
 .Elkhart Lake
 .Mid-Ohio
 .Laguna Seca
-.Long Beach*
 .Pocono
 .Meadowlands
 .Nazareth
 .Toronto
 .Vancouver
-.Detroit
+.Detroit Isle
 .Surfers Paradise
+.Portland
 .Rio
 .Gateway
 .Fontana
@@ -83,12 +81,10 @@ Indy
 .Chicago
 .St Petesburg
 .Sonoma
-.Watkins Glen*
 .Iowa
 .New Hampshire
 .Houston
 .Alabama
-.Portland <-
 
 Cars
 
@@ -212,6 +208,43 @@ Practice
 Race
 Season
 
-.3 Cameras (onboard, back, up)
+.4 Cameras (onboard, back, up)
 .Grid
+.Pit
+.Failures
+.Fast lap
 .Race end
+.Diferença carro frente
+.Diferença carro atrás
+.Melhor volta
+.Volta atual
+.Tempo total
+
+-------------------------------------
+Passo a passo para fazer uma pista
+.Definir tamanho da pista
+.Definir traçado
+.Definir largura
+.Definir elevação
+.Definir collider geral
+.Definir collider pista, escape e guardrail
+.Definir boxes
+.Definir zebra
+.Definir linhas de chegada
+.Traçado central
+.Largada movimento
+
+.Largada parada
+.Posição carros pit
+
+.Alambrado
+.Traçado 1,2,3
+.Traçado pit
+.Traçado pit trigger
+.Pontes
+.Arquibancadas
+.Placas de publicidade
+.Árvores
+.Pit bandeirada
+.Pit prédio
+.Ajustar tamanho da pista
