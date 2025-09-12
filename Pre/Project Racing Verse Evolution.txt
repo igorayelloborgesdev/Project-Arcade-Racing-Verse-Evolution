@@ -233,14 +233,12 @@ Passo a passo para fazer uma pista
 .Definir linhas de chegada
 .Traçado central
 .Largada movimento
-
 .Largada parada
 .Posição carros pit
-
-.Alambrado
-.Traçado 1,2,3
 .Traçado pit
-.Traçado pit trigger
+
+.Traçado 1,2,3<-
+.Alambrado
 .Pontes
 .Arquibancadas
 .Placas de publicidade
