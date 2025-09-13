@@ -208,7 +208,7 @@ Practice
 Race
 Season
 
-.4 Cameras (onboard, back, up)
+.2 Cameras (back, up)
 .Grid
 .Pit
 .Failures
@@ -236,13 +236,14 @@ Passo a passo para fazer uma pista
 .Largada parada
 .Posição carros pit
 .Traçado pit
-
-.Traçado 1,2,3<-
+.Traçado 1,2,3
 .Alambrado
-.Pontes
-.Arquibancadas
 .Placas de publicidade
+.Pontes
+
+.Pit bandeirada<-
+.Arquibancadas
 .Árvores
-.Pit bandeirada
 .Pit prédio
+.Background
 .Ajustar tamanho da pista
